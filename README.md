@@ -2,6 +2,8 @@
 
 Este é o repositório oficial do www.sugoigame.com.br!
 
+Servidor Discord da comunidade Sugoigame: https://discord.gg/aUwR3QBPKk
+
 ## Como funciona?
 
 Qualquer pessoa pode fazer um fork desse projeto para modificar o jogo e abrir pull requests que se aprovados pela staff entrarão em produção.
